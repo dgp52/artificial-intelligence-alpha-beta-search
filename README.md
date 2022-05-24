@@ -1,1 +1,3 @@
-# artificial-intelligence-alpha-beta-search
+# Artificial Intelligence Alpha Beta Search
+
+Implement the minimax algorithm with alpha-beta pruning in order to find the optimal move for a simple game. This game is played on a 4x4 board with the player starting in the lower left corner, and a monster in the upper left. One of the positions in the board contains gold. The player has to move (up, down, left, right) to reach the goal and come back to the starting position (to exit). The player can also build a wall in one of the four directions, if the square is empty. The monster can also move in the four directions and can also stay still (player must always build or move). The monster wants to eat the player, which happens when they become collocated.
